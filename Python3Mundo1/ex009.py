@@ -1,0 +1,13 @@
+# Desafio 009 -  leia um numero e mostre sua taboada.
+nO =int(input('Informe um numero: '))
+print(f'{nO}x0={nO*0}')
+print(f'{nO}x1={nO*1}')
+print(f'{nO}x2={nO*2}')
+print(f'{nO}x3={nO*3}')
+print(f'{nO}x4={nO*4}')
+print(f'{nO}x5={nO*5}')
+print(f'{nO}x6={nO*6}')
+print(f'{nO}x7={nO*7}')
+print(f'{nO}x8={nO*8}')
+print(f'{nO}x9={nO*9}')
+print(f'{nO}x10={nO*10}')
